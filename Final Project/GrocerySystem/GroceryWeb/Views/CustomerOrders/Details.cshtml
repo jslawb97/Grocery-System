@@ -1,0 +1,65 @@
+﻿@model DataTransferObjects.CustomerOrder
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="indexpages">
+    <h2><i>Order Details</i></h2>
+
+    <div>
+        <h4>Order:</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.OrderID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OrderID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CustomerID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.DepartmentID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.DepartmentID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.PickupDate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PickupDate)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Active)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Active)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Back to List", "IndexEmployee")
+    </p>

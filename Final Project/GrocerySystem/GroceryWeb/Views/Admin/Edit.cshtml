@@ -1,0 +1,37 @@
+﻿@model GroceryWeb.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Edit";
+}
+<div class="indexpages">
+    <h2><i>Edit User</i></h2>
+
+
+    <table class="table">
+        @{ 
+            foreach (string role in ViewBag.Roles)
+            {
+                <tr>
+                    <td>@role</td>
+                    <td>@Html.ActionLink("Remove", "Remove", new { id = role })</td>
+                </tr>
+            }
+
+            foreach (string role in ViewBag.UnusedRoles)
+            {
+                <tr>
+                    <td>@role</td>
+                    <td>@Html.ActionLink("Add", "Add", new { id = role})</td>
+                </tr>
+            }
+        }
+    </table>
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

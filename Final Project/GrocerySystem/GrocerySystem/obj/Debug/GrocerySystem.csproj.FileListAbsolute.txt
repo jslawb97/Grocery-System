@@ -1,0 +1,132 @@
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe.config
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.pdb
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.baml
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.g.resources
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.Properties.Resources.resources
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.GenerateResource.Cache
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.CoreCompileInputs.cache
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+c:\users\jslaw\source\repos\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe.config
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.baml
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.g.resources
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.Properties.Resources.resources
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.GenerateResource.Cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe.config
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.baml
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.g.resources
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.Properties.Resources.resources
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.GenerateResource.Cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.CoreCompileInputs.cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.dll
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.dll
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.dll
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.baml
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.dll
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.dll
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.dll
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.pdb
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\ItemEdit.baml
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\ItemEdit.g.cs
+F:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.baml
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.baml
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.baml
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.baml
+F:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe.config
+F:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+F:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.baml
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe.config
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.exe
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\GrocerySystem.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataTransferObjects.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\LogicLayer.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Debug\DataAccessLayer.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.baml
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.baml
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.baml
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.baml
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.g.resources
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.Properties.Resources.resources
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.GenerateResource.Cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csproj.CoreCompileInputs.cache
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.baml
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.exe
+D:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.pdb
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.baml
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+E:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem.csprojResolveAssemblyReference.cache
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.baml
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUpdatePassword.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmItemEdit.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\MainWindow.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmUserEdit.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\frmOrderEdit.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\App.g.cs
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.cache
+F:\Final Project\GrocerySystem\GrocerySystem\obj\Debug\GrocerySystem_MarkupCompile.lref

@@ -1,0 +1,79 @@
+﻿body {
+    background: repeating-linear-gradient( to right, #f6ba52, #f6ba52 10px, #ffd180 10px, #ffd180 20px );
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.mainpic {
+    height: 400px;
+}
+
+.description {
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.captiontxt {
+    height: 75px;
+    padding-top: 0px;
+    margin: 30px;
+    background-color: lightgray;
+    opacity: 0.8;
+    filter: alpha(opacity=100);
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.custom-navigation {
+    height: 110px;
+    background-color: white;
+    opacity: 0.8;
+}
+
+.navlinks:hover {
+    background-color: black;
+    opacity: 1;
+}
+
+.links {
+    color: black;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.mainpage {
+    margin-top: 5px;
+    padding-top: 60px;
+}
+
+.indexpages {
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+    margin-top: 75px;
+    border-radius: 10px;
+}

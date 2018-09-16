@@ -1,0 +1,59 @@
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+E:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Final Project\GrocerySystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+F:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\Final Project\GrocerySystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache

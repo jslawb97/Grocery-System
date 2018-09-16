@@ -1,0 +1,35 @@
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+D:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+F:\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+F:\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+F:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+F:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+F:\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\Semester 1\Net 2\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+D:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+D:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+D:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+D:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+E:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+E:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+F:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+F:\Final Project\GrocerySystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+F:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+F:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+F:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+F:\Final Project\GrocerySystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache

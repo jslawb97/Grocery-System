@@ -1,0 +1,114 @@
+﻿@model IEnumerable<DataTransferObjects.CustomerOrder>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="indexpages">
+    <h2><i>Active Orders</i></h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PickupDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @*I know this isn't the right way to display the name
+                    for the customer but I did this last minute so
+                    it wouldn't display the IDs*@
+                    @if (item.CustomerID == 100000)
+                    {
+                        <p>Irene</p>
+                    }
+                    else if (item.CustomerID == 100001)
+                    {
+                        <p>Ila</p>
+                    }
+                    else if (item.CustomerID == 100002)
+                    {
+                        <p>John</p>
+                    }
+                    else if (item.CustomerID == 100003)
+                    {
+                        <p>Josh</p>
+                    }
+                    else if (item.CustomerID == 100004)
+                    {
+                        <p>Selina</p>
+                    }
+                    else if (item.CustomerID == 100005)
+                    {
+                        <p>Marshall</p>
+                    }
+                    else if (item.CustomerID == 100006)
+                    {
+                        <p>Eric</p>
+                    }
+                </td>
+                <td>
+                    @*I know this isn't the right way to display the name
+                    for the departments but I did this last minute so
+                    it wouldn't display the IDs*@
+                    @if (item.DepartmentID == 100000)
+                    {
+                        <p>Meat</p>
+                    }
+                    else if (item.DepartmentID == 100001)
+                    {
+                        <p>Produce</p>
+                    }
+                    else if (item.DepartmentID == 100002)
+                    {
+                        <p>Dairy</p>
+                    }
+                    else if (item.DepartmentID == 100003)
+                    {
+                        <p>Frozen</p>
+                    }
+                    else if (item.DepartmentID == 100004)
+                    {
+                        <p>Grocery</p>
+                    }
+                    else if (item.DepartmentID == 100005)
+                    {
+                        <p>HBC</p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PickupDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.OrderID }) |
+                    @Html.ActionLink("Cancel Order", "Delete", new { id = item.OrderID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

@@ -1,0 +1,11 @@
+Admin (Can view/do anything)
+Username: admin@jwsfoods.com
+Password: p@ssw0rd(default password)
+
+Employee (Can only view employee Tabs)
+Username: jacobslaubaugh@jwsfoods.com
+Password: p@ssw0rd(default password)
+
+Customer (Can only view Customer Tabs)
+Username: eric@gmail.com
+Password: p@ssw0rd(default password)

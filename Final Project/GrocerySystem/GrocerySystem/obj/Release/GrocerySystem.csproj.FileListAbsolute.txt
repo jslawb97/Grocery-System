@@ -1,0 +1,14 @@
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Release\GrocerySystem.exe.config
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Release\GrocerySystem.exe
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\bin\Release\GrocerySystem.pdb
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\MainWindow.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\App.g.cs
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem_MarkupCompile.cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem_MarkupCompile.lref
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\MainWindow.baml
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.g.resources
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.Properties.Resources.resources
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.csproj.GenerateResource.Cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.csproj.CoreCompileInputs.cache
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.exe
+D:\Net 2\Final Project\GrocerySystem\GrocerySystem\obj\Release\GrocerySystem.pdb

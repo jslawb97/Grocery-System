@@ -1,0 +1,97 @@
+﻿@model IEnumerable<DataTransferObjects.Products>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="indexpages">
+    <h2><i>Current Products</i></h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UPC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manufacturer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OnHand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UPC)
+                </td>
+                <td>
+                    @*I know this isn't the right way to display the name
+                    for the departments but I did this last minute so
+                    it wouldn't display the IDs*@
+                    @if (item.DepartmentID == 100000)
+                    {
+                        <p>Meat</p>
+                    }
+                    else if (item.DepartmentID == 100001)
+                    {
+                        <p>Produce</p>
+                    }
+                    else if (item.DepartmentID == 100002)
+                    {
+                        <p>Dairy</p>
+                    }
+                    else if (item.DepartmentID == 100003)
+                    {
+                        <p>Frozen</p>
+                    }
+                    else if (item.DepartmentID == 100004)
+                    {
+                        <p>Grocery</p>
+                    }
+                    else if (item.DepartmentID == 100005)
+                    {
+                        <p>HBC</p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Manufacturer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OnHand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.UPC }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.UPC }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.UPC })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
